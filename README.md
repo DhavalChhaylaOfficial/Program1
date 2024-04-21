@@ -1,16 +1,25 @@
 # set2
 
-A new Flutter project.
+### Login Screen 
 
-## Getting Started
+### Home Screen 
+- Two buttons
+1. Java
+2. Android 
 
-This project is a starting point for a Flutter application.
+### Java Screen 
+- Two radio buttons 
+1. Core Java
+2. Advance Java 
 
-A few resources to get you started if this is your first Flutter project:
+### Core Java Screen
+- Java Image 
+- Yellow Background 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Advance Java screen 
+- Java Image 
+- Yellow Background 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Same for Android screen 
+- Blue background 
+- Android Image
